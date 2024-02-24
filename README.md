@@ -1,3 +1,2 @@
 # Book-Store
-Book Store
-The Book Store application is responsible for CRUD operations for books, as well as CRUD operations for my favorite books
+Book Store website is designed and developed using Spring Boot, The website facilitates Create, Read, Update, and Delete (CRUD) operations for managing books in the store's inventory. Additionally, users can perform CRUD operations for their favorite books, enhancing their browsing and shopping experience.
